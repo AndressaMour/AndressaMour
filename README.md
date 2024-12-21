@@ -1,6 +1,7 @@
 ## 👋 Olá, sou Andressa Moura!
 
 💻 Desenvolvedora Web | Q.A em aprendizado
+
 🎯 Focada em automação de testes e desenvolvimento web
 
 ### 🚀 Sobre mim
