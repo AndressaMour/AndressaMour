@@ -3,7 +3,7 @@
 💻 Desenvolvedora Web | Q.A em aprendizado
 🎯 Focada em automação de testes e desenvolvimento web
 
-## 🚀 Sobre mim
+### 🚀 Sobre mim
 - 🔭 Estou trabalhando atualmente em: Automação de Testes e Desenvolvimento Web
 - 🌱 Atualmente estou aprendendo: Automação de testes com Selenium, Cypress e Playwright 
 - 👯 Estou procurando colaborar em projetos de autmomação de testes
