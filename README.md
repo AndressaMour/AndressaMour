@@ -7,7 +7,7 @@
 ### 🚀 Sobre mim
 - 🔭 Estou trabalhando atualmente em: Automação de Testes e Desenvolvimento Web
 - 🌱 Atualmente estou aprendendo: Automação de testes com Selenium, Cypress e Playwright 
-- 👯 Estou procurando colaborar em projetos de autmomação de testes
+- 👯 Estou procurando colaborar em projetos de automação de testes
 - ⚡ Curiosidade: Adoro tecnologia e café ☕
 - 📫 Como entrar em contato comigo:
 [![Gmail Badge](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:andressa.moura.ads@gmail.com)   [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/andressa-dos-santos-moura-0b8567216)  
